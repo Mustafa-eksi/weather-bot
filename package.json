@@ -9,8 +9,7 @@
   "author": "mustafa",
   "license": "MIT",
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0",
-    "weather-turkey": "^0.0.73"
+    "node-telegram-bot-api": "^0.61.0"
   },
   "type": "module"
 }
